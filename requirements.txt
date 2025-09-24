@@ -1,0 +1,15 @@
+# Core packages
+numpy>=1.24,<2.0
+pandas>=1.5,<2.3
+seaborn>=0.13,<0.14
+matplotlib>=3.7,<3.11
+scikit-learn>=1.2,<1.8
+xgboost>=1.7,<1.8
+
+# Dashboard / UI
+streamlit>=1.22,<2.0
+pillow>=10.0,<10.1
+
+# Helpers / ML
+imbalanced-learn>=0.10,<0.11
+# lazypredict==0.2.9
